@@ -42953,7 +42953,7 @@ F.Bi.prototype={
 T:function(a,b){return new S.ox(new F.wd(null),"Flutter Demo",X.YQ(null,C.lF,X.a5h()),!1,null)}}
 F.wd.prototype={
 T:function(a,b){var s,r,q,p,o,n,m,l=null,k=4287532686,j="Futura",i=T.jJ(l,F.bW(b,!1).a.a>1200?100:50,l),h=H.d([new O.eL(0,C.E,new P.o(1,3),5)],t.ec)
-h=M.ns(l,K.X3(new P.C(k),l,K.X3(l,new L.n8("images/post0.jpg"),l,95),100),l,l,new S.dX(l,l,l,l,h,l,C.b3),l,l,l,l,l,l)
+h=M.ns(l,K.X3(new P.C(k),l,K.X3(l,new L.n8("assets/images/post0.jpg"),l,95),100),l,l,new S.dX(l,l,l,l,h,l,C.b3),l,l,l,l,l,l)
 s=T.jJ(l,20,l)
 r=F.bW(b,!1).a.a>1200?50:40
 r=L.YO("Pratham Sheth",A.jR(l,l,new P.C(k),l,l,l,l,l,j,l,l,r,l,C.d4,l,l,!0,l,l,l,l,l,l))
